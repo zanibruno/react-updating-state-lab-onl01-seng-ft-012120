@@ -8,6 +8,7 @@ ReactDOM.render(
   <div>
     <DigitalClicker />
     <YouTubeDebugger />
-  </div>,
+ </div>,
   document.getElementById('global')
-);
+)
+                                        
